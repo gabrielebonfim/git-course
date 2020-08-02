@@ -1,7 +1,6 @@
-# Git Course
-Repositorio para ensinar Git. 
+# GIT COURSE
+Repositorio criado com referencias a aula de Willian Justen do curso de Git e Github. 
 
-Saiba mais em: [willianjusten.com.br](http://willianjusten.com.br)
+[![Acesso ao curso na Udemy](https://www.udemy.com/course/git-e-github-para-iniciantes)](Acesso ao curso)
 
-Gostou do curso? <3
-
+Valeu Will!
